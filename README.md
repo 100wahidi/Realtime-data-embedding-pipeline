@@ -75,10 +75,8 @@ const embedding = await session.run(text, { mean_pool: true, normalize: true })
 This is where the text becomes a vector representation used by semantic retrieval.
 the edge function is alive on : https://wvxtatqhlsjalxshsjzr.supabase.co/functions/v1/hello-world
 it is deployed using supabase CLI :
-steps-> 
-106
 ### Create Function
-107
+
  
 ```bash
 supabase functions new hello-world

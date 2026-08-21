@@ -2,6 +2,9 @@
 
 This folder contains the Supabase side of the embedding automation pipeline used by the project.
 
+<img width="1834" height="786" alt="image" src="https://github.com/user-attachments/assets/5ab95089-3e60-4019-a106-d6b01727ca6a" />
+
+
 ## 1. Architecture Overview
 
 The workflow is built around a simple queue pattern:
